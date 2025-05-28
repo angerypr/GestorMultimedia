@@ -1,0 +1,29 @@
+[
+    {
+        "codigo": "1",
+        "foto_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ76dkcvl31iNbcYUyRc7tQCGTfz7vPKGuZFr6J2HUgz7ZLVN6iI26cDQIdWjFApZ9fXHp7",
+        "tipo": "pelicula",
+        "nombre": "The Impossible",
+        "descripcion": "Narra la experiencia de una familia espa\u00f1ola durante el tsunami de 2004 en el sudeste asi\u00e1tico. La pel\u00edcula sigue a la familia Bennett mientras se enfrentan a la destrucci\u00f3n y el caos del tsunami, y su lucha por la supervivencia y el reencuentro. ",
+        "pais": "USA",
+        "autor": "J.A. Bayona"
+    },
+    {
+        "codigo": "2",
+        "foto_url": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/0\/00\/Us_%282019%29_theatrical_poster.png",
+        "tipo": "pelicula",
+        "nombre": "Us",
+        "descripcion": "Adelaide Wilson y su familia son atacados por unas misteriosas figuras vestidas de rojo. Tras observarlas con m\u00e1s atenci\u00f3n, los Wilson se dan cuenta de que los intrusos son id\u00e9nticos a ellos.",
+        "pais": "USA",
+        "autor": "Jordan Peele"
+    },
+    {
+        "codigo": "3",
+        "foto_url": "https:\/\/musicart.xboxlive.com\/7\/82f06d00-0000-0000-0000-000000000002\/504\/image.jpg",
+        "tipo": "pelicula",
+        "nombre": "C\u00f3nclave",
+        "descripcion": "El cardenal Lawrence participa en uno de los eventos m\u00e1s secretos y antiguos del mundo: la elecci\u00f3n de un nuevo papa. Rodeado de poderosos l\u00edderes religiosos en los pasillos del Vaticano, pronto descubre un rastro de profundos secretos que podr\u00edan sacudir los cimientos de la Iglesia Cat\u00f3lica Romana.",
+        "pais": "UK",
+        "autor": "Peter Straughan"
+    }
+]
