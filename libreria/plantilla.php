@@ -16,7 +16,7 @@ class plantilla {
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Lo que he visto</title>
+            <title>Gestor de Multimedia</title>
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
         </head>
         <body>
@@ -25,7 +25,7 @@ class plantilla {
             <div class="container">
                 <a class="navbar-brand d-flex align-items-center" href="index.php">
                    <img src="assets/logo.png" alt="Logo" height="40" class="me-2">
-                    <span>Lo que he visto</span>
+                    <span>Gestor de Multimedia</span>
                 </a>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
@@ -44,7 +44,7 @@ class plantilla {
 
         <div class="container mt-4">
             <div class="text-center mb-4">
-                <h1>Lo que he visto</h1>
+                <h1>Gestor de Multimedia</h1>
                 <p class="lead">Listado de películas y series en las que he invertido mi tiempo</p>
             </div>
 
@@ -58,7 +58,7 @@ class plantilla {
             <footer class="text-center mt-5 mb-3">
                 <hr>
                 <p class="text-muted">
-                    &copy; <?= date('Y') ?> - Todos los derechos reservados | Lo que he visto
+                    &copy; <?= date('Y') ?> - Todos los derechos reservados | Gestor de Multimedia
                 </p>
             </footer>
 
